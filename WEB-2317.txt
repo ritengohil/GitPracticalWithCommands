@@ -1,0 +1,8 @@
+WEB-2317: SQL injection/XSS and long strings in search
+
+Fixed
+
+Files Modified(PHP):-
+\shared_wwwroot\includes\search\search_backend6.inc.php
+\shared_wwwroot\includes\searchArea.inc.php
+D:\websites\shared_wwwroot\includes\functions\functions.inc.php
